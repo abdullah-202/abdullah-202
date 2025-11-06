@@ -8,12 +8,11 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm a passionate developer focused on building modern, responsive, and user-friendly digital experiences.  
-I specialize in **React**, **Next.js**, and **Tailwind CSS** for web development — and also create Android apps using **Kotlin**.  
+I build modern, high-performance applications that blend functionality with great design.
+From interactive React/Next.js web apps to powerful Android solutions in Kotlin, I turn ideas into scalable digital products.
 
-🎓 **BS Computer Science (Hons)** student & **LL.B** student from Pakistan  
+🎓 **BS Computer Science (Hons)** student from Pakistan  
 💡 Love solving real-world problems through clean, maintainable code  
-⚙️ Currently developing a **Point of Sale (POS)** system in **C# + SQL Server**  
 🚀 Always exploring new tools and frameworks to stay sharp  
 
 ---
@@ -35,7 +34,6 @@ I specialize in **React**, **Next.js**, and **Tailwind CSS** for web development
 #### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![SQLServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
