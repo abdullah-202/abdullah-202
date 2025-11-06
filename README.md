@@ -52,7 +52,6 @@ I specialize in **React**, **Next.js**, and **Tailwind CSS** for web development
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullah-202&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-202&theme=tokyonight" />
 </p>
 
 <p align="center">
